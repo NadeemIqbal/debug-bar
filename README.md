@@ -10,6 +10,10 @@ and Web.
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Build](https://github.com/NadeemIqbal/debug-bar/actions/workflows/build.yml/badge.svg)](https://github.com/NadeemIqbal/debug-bar/actions/workflows/build.yml)
 
+<p align="center">
+  <img src="docs/hero.gif" width="320" alt="DebugBar drawer opening on iOS — Network log, Logs tab, environment switcher, screenshot+log+state bundle capture, all running inside a pretend e-commerce app" />
+</p>
+
 > **Pairs naturally with [`flag-bar`](https://github.com/NadeemIqbal/flag-bar)** — drop the
 > `FlagBarSection` into the `sections` list and your feature flags get their own tab in the
 > same drawer.
